@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Akanksha</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hi, my name is Akanksha.
+    \n\nI like many things. I have many hobbies.
+    \n\nI like to draw sketches, mandala arts, or any new art which I find interesting.
+    \nI like all sort of paintings.
+    \n\nApart from drawing and painting, I like dancing.
+        \nI have learnt various forms of dance like western dance, bhangra etc.
+    \n\nI love reading books/novels.
+    \nBooks keep us motivated. I have read Brida by Paulo Coelho, Alchemist by Paulo Coelho, Rich and Poor dad by Robert T Kiyosaki and many more.
+    \n\nI like to do volunteer work too. I am a member of Shiksha society in our college.
+    \nWe teach under-privileged children from 1st to 12th standard after our college classes.
+    \nWe also organise various workshops such as Art and Craft workshop, Science workshop, Career workshop and fest Shikshangan.\n\n</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
